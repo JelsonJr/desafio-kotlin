@@ -1,4 +1,4 @@
-# Desafio final do curso Kotlin: persistindo dados com Hibernate da formação Linguagem Kotlin da Alura
+# Desafio final do curso "Kotlin: persistindo dados com Hibernate" da formação Linguagem Kotlin da Alura
 
 ## O desafio consistia em: 
 - Instalar o Hibernate no projeto
